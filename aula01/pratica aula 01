@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>Citação e endereço</title>
+
+</head>
+
+<body>
+
+  <div class="titulo">
+
+    <h1>Citações de pessoas que sabem mais que eu sobre vários assuntos</h1>
+
+  </div>
+
+  <div class="citacao">
+
+    <br>
+
+    <ul>
+
+      <p>
+
+        <span class="data_nas"><strong>Alan Turing já disse: </strong><cite>"Podemos apenas ver um pouco do futuro,
+            mas o suficiente para perceber que há muito a fazer."</cite></span>
+
+      </p>
+
+      <p>
+
+        <span class="data_nas"><strong>Grace Hopper disse: </strong><cite>"A maneira de lidar com a vida é enfrentar a
+            situação, aceitar a responsabilidade e seguir em frente."</cite></span>
+
+      </p>
+
+      <p>
+
+        <span class="data_nas"><strong>Donald Knuth disse uma vez: </strong><cite>"A máquina analítica possui não apenas
+            a habilidade de fazer cálculos; ela tem a capacidade de seguir um plano de operações, sem a intervenção de
+            qualquer poder humano durante a execução dessas operações."</cite></span>
+
+      </p>
+
+      <p>
+
+        <span class="data_nas"><strong>Ada Lovelace se expressou: </strong><cite>"A programação é a arte de organizar
+            e dominar a complexidade."</cite></span>
+
+      </p>
+
+      <p>
+
+        <span class="data_nas"><strong>John McCarthy proferiu: </strong><cite>"Computação é o estudo de algoritmos que
+            processam informação para transformá-la em conhecimento."</cite></span>
+
+      </p>
+
+    </ul>
+
+  </div>
+
+  <div class="formacao">
+
+    <br>
+
+    <address>Feito por Eduardo Henrique Stahnke em 23/02/2024, em Cedup, Timbó: Email institucional:
+      1001567983@estudante.sed.sc.gov.br.
+      Email pessoal: eduardostahnke18@gmail.com. Perfil no GitHub: https://github.com/EduardoStahnke.
+    </address>
+
+  </div>
+
+</body>
+
+</html>
