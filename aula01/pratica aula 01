@@ -23,21 +23,21 @@
 
       <p>
 
-        <span class="data_nas"><strong>Alan Turing já disse: </strong><cite>"Podemos apenas ver um pouco do futuro,
+        <span class="Alan"><strong>Alan Turing já disse: </strong><cite>"Podemos apenas ver um pouco do futuro,
             mas o suficiente para perceber que há muito a fazer."</cite></span>
 
       </p>
 
       <p>
 
-        <span class="data_nas"><strong>Grace Hopper disse: </strong><cite>"A maneira de lidar com a vida é enfrentar a
+        <span class="Grace"><strong>Grace Hopper disse: </strong><cite>"A maneira de lidar com a vida é enfrentar a
             situação, aceitar a responsabilidade e seguir em frente."</cite></span>
 
       </p>
 
       <p>
 
-        <span class="data_nas"><strong>Donald Knuth disse uma vez: </strong><cite>"A máquina analítica possui não apenas
+        <span class="Donald"><strong>Donald Knuth disse uma vez: </strong><cite>"A máquina analítica possui não apenas
             a habilidade de fazer cálculos; ela tem a capacidade de seguir um plano de operações, sem a intervenção de
             qualquer poder humano durante a execução dessas operações."</cite></span>
 
@@ -45,14 +45,14 @@
 
       <p>
 
-        <span class="data_nas"><strong>Ada Lovelace se expressou: </strong><cite>"A programação é a arte de organizar
+        <span class="Ada"><strong>Ada Lovelace se expressou: </strong><cite>"A programação é a arte de organizar
             e dominar a complexidade."</cite></span>
 
       </p>
 
       <p>
 
-        <span class="data_nas"><strong>John McCarthy proferiu: </strong><cite>"Computação é o estudo de algoritmos que
+        <span class="John"><strong>John McCarthy proferiu: </strong><cite>"Computação é o estudo de algoritmos que
             processam informação para transformá-la em conhecimento."</cite></span>
 
       </p>
@@ -63,7 +63,7 @@
 
   <hr>
 
-  <div class="formacao">
+  <div class="rodapé">
 
     <br>
 
